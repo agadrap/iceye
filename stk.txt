@@ -1,0 +1,11 @@
+stk.v.5.0
+BEGIN Ephemeris
+NumberOfEphemerisPoints 3632
+ScenarioEpoch           1 Jan 2000 00:00:00.000000000
+InterpolationMethod     Lagrange
+InterpolationOrder      1
+DistanceUnit      Kilometers
+CentralBody             Earth
+CoordinateSystem        J2000
+EphemerisLLATimePos
+END Ephemeris
